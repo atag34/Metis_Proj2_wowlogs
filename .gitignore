@@ -1,0 +1,4 @@
+# ignore pickles and scrapwork#
+###############################
+*.pkl
+Scrap_Work/
